@@ -1,10 +1,12 @@
-# Bookstore
-Bookstore Ecommerce Website using Spring Boot, Hibernate, MySql, Thymeleaf, Bootstrap.
+# Origin Source
+https://github.com/MANANPREET/Bookstore.git
+by MANANPREET
 
-In this project, I developed a fully functional online bookstore. This project had following modules :
-1) User Signup and Login,
-2) User Profile management,
-3) Product management,
-4) Shopping Cart
-5) Order checkout and order history
-6) Automatic email confirmation
+# Goal
+Make havy transaction flows parallel for loading main page fast.
+
+# What I used
+Thread Class 
+
+line 97:
+src\main\java\com\bookstore\controller\HomeController.java
